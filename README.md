@@ -128,4 +128,4 @@ Licence MIT — libre d'utilisation, de modification et de distribution.
 
 ---
 
-*Construit dans le cadre d'un projet de Détection de Fraude Bancaire — [Voir le projet complet sur LinkedIn]*
+*Construit dans le cadre d'un projet de Détection de Fraude Bancaire — [Voir le projet complet sur LinkedIn]www.linkedin.com/in/ryann-loic-bondeh-essomba-108ab6388*
