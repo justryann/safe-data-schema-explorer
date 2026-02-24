@@ -1,0 +1,26 @@
+# Data files — never commit raw sensitive data
+*.csv
+!outputs/schema_export.csv
+!outputs/stats_numeriques.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw data — never commit
+data/
+raw/
+*.xlsx
+*.xls
+*.parquet
+*.json
